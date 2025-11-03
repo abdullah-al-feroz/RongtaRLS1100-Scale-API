@@ -5,6 +5,6 @@ This project provides a .NET 8.0 Web API solution for connecting to and retrievi
 📡 Connect to Rongta RLS-1100 via TCP/IP                                                                                                                              
 📦 Retrieve sales data directly from the weighing scale                                                                                                               
 💾 Automatically save records to the database using Entity Framework Core                                                                                             
-🧩 Clean service architecture (Controller → Service → Repository → DbContext)
-⚙️ Asynchronous operations for non-blocking I/O
-🔐 Error handling and logging for connection and parsing failures
+🧩 Clean service architecture (Controller → Service → Repository → DbContext)                                                                                         
+⚙️ Asynchronous operations for non-blocking I/O                                                                                                                       
+🔐 Error handling and logging for connection and parsing failures                                                                                                     
